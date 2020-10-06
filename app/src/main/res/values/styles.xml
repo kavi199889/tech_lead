@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+
+
+
+    -<style parent="Theme.AppCompat.Light.NoActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+
+    <item name="colorPrimary">@color/colorPrimary</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    <item name="colorAccent">@color/colorAccent</item>
+
+
+    -<item name="android:windowLayoutInDisplayCutoutMode">
+
+    <!-- default, shortEdges, never -->
+
+
+</item>
+
+</style>
+</resources>
