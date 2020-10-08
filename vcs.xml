@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="kavi199889" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kavi199889/tech_lead" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hp\AndroidStudioProjects" />
