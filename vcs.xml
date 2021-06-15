@@ -14,6 +14,14 @@
           <option name="url" value="https://github.com/kavi199889/tech_lead" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.fernando.org.uk/virya-dev/vaccine_passport_mobile" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.fernando.org.uk" />
+          <option name="userName" value="kavitha.virya@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hp\AndroidStudioProjects" />
